@@ -90,15 +90,19 @@ In addition, we can control the regularization strength via the regularization p
 
 **links**
 
-1. [https://www.geeksforgeeks.org/regularization-in-machine-learning/](https://www.geeksforgeeks.org/regularization-in-machine-learning/)
+- [https://www.geeksforgeeks.org/regularization-in-machine-learning/](https://www.geeksforgeeks.org/regularization-in-machine-learning/)
 
-2. [http://rasbt.github.io/mlxtend/user_guide/general_concepts/regularization-linear/](http://rasbt.github.io/mlxtend/user_guide/general_concepts/regularization-linear/)
+- [http://rasbt.github.io/mlxtend/user_guide/general_concepts/regularization-linear/](http://rasbt.github.io/mlxtend/user_guide/general_concepts/regularization-linear/)
 
-3. [https://www.slideshare.net/KienLe47/regularization-in-deep-learning](https://www.slideshare.net/KienLe47/regularization-in-deep-learning)
+- [https://www.slideshare.net/KienLe47/regularization-in-deep-learning](https://www.slideshare.net/KienLe47/regularization-in-deep-learning)
 
-4. [https://glassboxmedicine.com/2019/06/08/regularization-for-neural-networks-with-framingham-case-study/](https://glassboxmedicine.com/2019/06/08/regularization-for-neural-networks-with-framingham-case-study/)
+- [https://glassboxmedicine.com/2019/06/08/regularization-for-neural-networks-with-framingham-case-study/](https://glassboxmedicine.com/2019/06/08/regularization-for-neural-networks-with-framingham-case-study/)
 
-5. [https://cmci.colorado.edu/classes/INFO-4604/files/slides-6_regularization.pdf](https://cmci.colorado.edu/classes/INFO-4604/files/slides-6_regularization.pdf)
+- [https://cmci.colorado.edu/classes/INFO-4604/files/slides-6_regularization.pdf](https://cmci.colorado.edu/classes/INFO-4604/files/slides-6_regularization.pdf)
 
-   
+- https://digitalpicturesimg.blogspot.com/2019/12/l1-regularization-vs-l2-regularization.html
+
+- https://glassboxmedicine.com/2019/01/17/introduction-to-neural-networks/
+
+  
 
