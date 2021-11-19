@@ -104,5 +104,7 @@ In addition, we can control the regularization strength via the regularization p
 
 - https://glassboxmedicine.com/2019/01/17/introduction-to-neural-networks/
 
+- https://thomas-tanay.github.io/post--L2-regularization/
+
   
 
